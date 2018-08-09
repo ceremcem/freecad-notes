@@ -12,3 +12,4 @@ Proper `git commit`: [WIP repo](https://github.com/ceremcem/fc-asm3-test/tree/us
 ## Assembly 3
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
+* [Modeling using Assembly](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly) (Cut socket windows in panel)
