@@ -18,3 +18,4 @@
 | Task | Screenshot/Screencast | Link | 
 | ---- | --------------------- | ---- | 
 | Resetting orientation which is ruined by `Move Part` tool (![image](https://user-images.githubusercontent.com/6639874/44947919-2736fd80-ae1d-11e8-9f9e-16c64a89788a.png)) | ![image](https://user-images.githubusercontent.com/6639874/44947955-af1d0780-ae1d-11e8-934e-d1ec0a26e711.png) | https://github.com/realthunder/FreeCAD_assembly3/issues/21#issuecomment-411357888 |
+| Moving an object inside sub-container | ![movement-inside-container](https://user-images.githubusercontent.com/6639874/44950966-b9f88c00-ae5f-11e8-8a64-10172af06c23.gif) | https://github.com/realthunder/FreeCAD_assembly3/issues/28#issuecomment-412379339
