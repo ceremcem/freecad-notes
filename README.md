@@ -13,6 +13,7 @@
 | Multiple Holes | ![image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) | 
 | Using External Geometry | ![image](https://www.freecadweb.org/wiki/images/e/ed/Sketcher_ExternalEsempio1.png) | [Link](https://www.freecadweb.org/wiki/Sketcher_External) |
 | Measure Distance Center to Center | ![measurement-center-to-center](https://user-images.githubusercontent.com/6639874/44947330-467d5d00-ae14-11e8-8255-0a95f35e25cb.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?p=253824#p253821) |
+| Reading measurement into the Spreadsheet cell | ![image](https://forum.freecadweb.org/download/file.php?id=66646) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30676)
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
