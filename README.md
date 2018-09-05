@@ -15,6 +15,7 @@
 | Measure Distance Center to Center | ![measurement-center-to-center](https://user-images.githubusercontent.com/6639874/44947330-467d5d00-ae14-11e8-8255-0a95f35e25cb.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?p=253824#p253821) |
 | Assembly Based Dimensions | ![dynamic-measurement-success](https://user-images.githubusercontent.com/6639874/45010978-d7248a80-b018-11e8-8f1d-60874426036b.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30676)
 | Customize WB Toolbar | ![customize workbench bars](https://user-images.githubusercontent.com/6639874/45043088-ee916100-b074-11e8-9fed-7737c07aaea0.gif) | ---
+| Using filename as parameter source | ![image](https://forum.freecadweb.org/download/file.php?id=66816) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30720&p=254625#p254653) |
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
@@ -22,3 +23,4 @@
 | Resetting orientation which is ruined by `Move Part` tool (![image](https://user-images.githubusercontent.com/6639874/44947919-2736fd80-ae1d-11e8-9f9e-16c64a89788a.png)) | ![image](https://user-images.githubusercontent.com/6639874/44947955-af1d0780-ae1d-11e8-934e-d1ec0a26e711.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/21#issuecomment-411357888) |
 | Moving an object inside sub-container | ![movement-inside-container](https://user-images.githubusercontent.com/6639874/44950966-b9f88c00-ae5f-11e8-8a64-10172af06c23.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/28#issuecomment-412379339)
 | Center to Plane Constraint | ![center-to-plane-example](https://user-images.githubusercontent.com/6639874/44976314-902d8b00-af6d-11e8-9724-ecfc21d87ce3.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/51#issuecomment-418042991)
+| Replacing Parts | ![image](https://github.com/realthunder/FreeCAD_assembly3/wiki/images/replace-part.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
