@@ -22,5 +22,5 @@
 | ---- | --------------------- | ---- | 
 | Resetting orientation which is ruined by `Move Part` tool (![image](https://user-images.githubusercontent.com/6639874/44947919-2736fd80-ae1d-11e8-9f9e-16c64a89788a.png)) | ![image](https://user-images.githubusercontent.com/6639874/44947955-af1d0780-ae1d-11e8-934e-d1ec0a26e711.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/21#issuecomment-411357888) |
 | Moving an object inside sub-container | ![movement-inside-container](https://user-images.githubusercontent.com/6639874/44950966-b9f88c00-ae5f-11e8-8a64-10172af06c23.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/28#issuecomment-412379339)
-| Center to Plane Constraint | ![center-to-plane-example](https://user-images.githubusercontent.com/6639874/44976314-902d8b00-af6d-11e8-9724-ecfc21d87ce3.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/51#issuecomment-418042991)
+| Center to Plane Constraint | ![center-to-plane-example](https://user-images.githubusercontent.com/6639874/45145556-93bd4e00-b1c9-11e8-8094-44c3a11767ee.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/51#issuecomment-419013856)
 | Replacing Parts | ![image](https://github.com/realthunder/FreeCAD_assembly3/wiki/images/replace-part.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
