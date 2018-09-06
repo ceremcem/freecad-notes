@@ -3,7 +3,7 @@
 ## Assembly 3
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
-* [Modeling using Assembly](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly) (Cut socket windows in panel)
+* [Understanding the `Element` concept](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
 
 
 ## By Task 
@@ -24,3 +24,5 @@
 | Moving an object inside sub-container | ![movement-inside-container](https://user-images.githubusercontent.com/6639874/44950966-b9f88c00-ae5f-11e8-8a64-10172af06c23.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/28#issuecomment-412379339)
 | Center to Plane Constraint | ![center-to-plane-example](https://user-images.githubusercontent.com/6639874/45145556-93bd4e00-b1c9-11e8-8094-44c3a11767ee.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/51#issuecomment-419013856)
 | Replacing Parts | ![image](https://github.com/realthunder/FreeCAD_assembly3/wiki/images/replace-part.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
+| Modeling using assembly | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly) (Cut socket windows in panel)
+
