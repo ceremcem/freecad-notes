@@ -9,16 +9,17 @@ Enable "Sync placement"
 # Creating 
 
 ### Part Workbench
-Add a `Part` to the root (the yellow stairway icon)
-Create all sub-shape binders (Binders), move into the PartBody 
+Add a Part (Part001) to the root (the yellow stairway icon)
+Create all sub-shape binders (Binders) (may go to any active "Body"), move them into the Part001 (move between containers one by one to keep the Placement in sync (for now))
 Click the appropriate face of any Binder, use Sketcher->Flat Face, close
-Drag and drop the Sketch into the Part
-Double click the Sketch to edit
+Drag and drop the Sketch001 into the Part001
+Double click the Sketch001 to edit
 Use "External Geometry" tool to teleport constraints from outside geometry through the Binder(s)
 Draw the projection for your desired geometry, close 
-"Extrude" the sketch (possibly you may want to use "symmetric" option if this will be used as a virtual cutter) 
-Drag and drop the `Extrude` into the `Part` container
-Move the `Part` into the Assembly container
+"Extrude" the sketch (under Part WB) (possibly you may want to use "symmetric" option if this will be used as a virtual cutter) 
+Drag and drop the Extrude001 into the Part001 container
+Move the Part001 into the Assembly container (one by one, again)
+(Use the "Extrude001" as cutter and not the Part001, if it would be used as a cutter)
 
 ### PartDesign Workbench
 Add a Body to the root (the blue stairway icon)
