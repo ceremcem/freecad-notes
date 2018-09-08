@@ -3,8 +3,11 @@
 ## Assembly 3
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
-* [Understanding the `Element` concept](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
 
+## Deeper Knowledge 
+
+* [Understanding the `Element` concept](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
+* [Understanding the Cyclic dependency errors](https://github.com/realthunder/FreeCAD_assembly3/issues/74)
 
 ## By Task 
 
