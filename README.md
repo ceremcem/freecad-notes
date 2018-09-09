@@ -29,5 +29,5 @@
 | Center to Plane Constraint | ![center-to-plane-example](https://user-images.githubusercontent.com/6639874/45145556-93bd4e00-b1c9-11e8-8094-44c3a11767ee.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/51#issuecomment-419013856)
 | Replacing Parts | ![image](https://github.com/realthunder/FreeCAD_assembly3/wiki/images/replace-part.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
 | Modeling using assembly | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly) (Cut socket windows in panel)
-| Centering distinct planes | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/53#issuecomment-419249913)
+| Centering distinct planes | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/53#issuecomment-419249913)
 | Assembly Based Dimensions | ![dynamic-measurement-success](https://user-images.githubusercontent.com/6639874/45010978-d7248a80-b018-11e8-8f1d-60874426036b.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30676)
