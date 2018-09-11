@@ -9,6 +9,11 @@
 * [Understanding the `Element` concept](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
 * [Understanding the Cyclic dependency errors](https://github.com/realthunder/FreeCAD_assembly3/issues/74)
 
+
+## Workarounds 
+
+* TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
+
 ## Complementary Tasks 
 
 * Printing DXF `1:1`: 
