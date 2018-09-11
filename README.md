@@ -10,9 +10,10 @@
 * [Understanding the Cyclic dependency errors](https://github.com/realthunder/FreeCAD_assembly3/issues/74)
 
 
-## Workarounds 
+## Miscellaneous 
 
-* TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
+* Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
+
 
 ## Complementary Tasks 
 
