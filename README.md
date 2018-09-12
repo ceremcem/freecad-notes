@@ -14,6 +14,7 @@
 ## Miscellaneous 
 
 * Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
+* Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
 
 
 ## Complementary Tasks 
