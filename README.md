@@ -23,6 +23,7 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Hitting escape key while editing in a Sketch](https://forum.freecadweb.org/viewtopic.php?f=10&t=30759)
 * [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
 * [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
+* [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
 
 
 ## Complementary Tasks 
@@ -42,6 +43,7 @@ Periodically check those and add to this HOWTO when they are ready:
 | Using filename as parameter source | ![image](https://forum.freecadweb.org/download/file.php?id=66816) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30720&p=254625#p254653) |
 | Projection Constraints | ![image](https://user-images.githubusercontent.com/6639874/45158649-4a7ef580-b1ed-11e8-903f-17ed828b88fd.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/63#issuecomment-419207737)
 | Generating 2D drawing from an object | ... | ...
+| Create radius on a plate vertex | ![image](https://forum.freecadweb.org/download/file.php?id=67148) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30851)
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
