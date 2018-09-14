@@ -16,7 +16,7 @@
 * Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
 * Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
 
-## TODO
+## Ongoing
 
 Periodically check those and add to this HOWTO when they are ready:
 
@@ -24,6 +24,10 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
 * [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
 * [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
+
+## TODO 
+
+* [Slice part with plane](https://open-shelf.appspot.com/FreeCAD/en-US/34.html), [Part Slice](https://www.freecadweb.org/wiki/Part_Slice)
 
 
 ## Complementary Tasks 
@@ -44,7 +48,7 @@ Periodically check those and add to this HOWTO when they are ready:
 | Projection Constraints | ![image](https://user-images.githubusercontent.com/6639874/45158649-4a7ef580-b1ed-11e8-903f-17ed828b88fd.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/63#issuecomment-419207737)
 | Generating 2D drawing from an object | ... | ...
 | Create radius on a plate vertex | ![image](https://forum.freecadweb.org/download/file.php?id=67148) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30851)
-| Part slice | ![image](https://www.freecadweb.org/wiki/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png) | [Link](https://www.freecadweb.org/wiki/Part_Slice)
+| Part slice | ![image](https://www.freecadweb.org/wiki/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png) | TODO
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
