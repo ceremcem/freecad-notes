@@ -16,6 +16,14 @@
 * Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
 * Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
 
+## TODO
+
+Periodically check those and add to this HOWTO when they are ready:
+
+* [Hitting escape key while editing in a Sketch](https://forum.freecadweb.org/viewtopic.php?f=10&t=30759)
+* [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
+* [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
+
 
 ## Complementary Tasks 
 
