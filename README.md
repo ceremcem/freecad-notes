@@ -15,6 +15,7 @@
 
 * Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
 * Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
+* Subshape not found: [1](https://forum.freecadweb.org/viewtopic.php?t=23746), [Follow the best practices](https://forum.freecadweb.org/viewtopic.php?f=3&t=15432&start=40#p143978)
 
 ## Ongoing
 
