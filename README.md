@@ -62,3 +62,5 @@ Periodically check those and add to this HOWTO when they are ready:
 | Centering distinct planes | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/53#issuecomment-419249913)
 | Assembly Based Dimensions | ![dynamic-measurement-success](https://user-images.githubusercontent.com/6639874/45010978-d7248a80-b018-11e8-8f1d-60874426036b.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30676)
 | Fixing broken binder | ![fixing-broken-binder](https://user-images.githubusercontent.com/6639874/45266593-ff234c00-b465-11e8-992d-6bd9150d7c5c.gif) | Select both `Binder` and the `Part` and click `Sub-shape Binder`
+| Find relations for a part | ![image](https://user-images.githubusercontent.com/6639874/45596665-1f07c200-b9c8-11e8-8f1c-a8dccff0bcc1.png) | Click part + use the "`Find Relations`" button
+
