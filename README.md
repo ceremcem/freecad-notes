@@ -50,6 +50,7 @@ Periodically check those and add to this HOWTO when they are ready:
 | Generating 2D drawing from an object | ... | ...
 | Create radius on a plate vertex | ![image](https://forum.freecadweb.org/download/file.php?id=67148) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30851)
 | Part slice | ![image](https://www.freecadweb.org/wiki/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png) | TODO
+| Pause recalculations while working in spreadsheet | ... | [spreadsheet -> right click -> Skip recomputes](https://forum.freecadweb.org/viewtopic.php?f=3&t=31005)
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
