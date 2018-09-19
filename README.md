@@ -52,6 +52,7 @@ Periodically check those and add to this HOWTO when they are ready:
 | Part slice | ![image](https://www.freecadweb.org/wiki/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png) | TODO
 | Pause recalculations while working in spreadsheet | ... | [spreadsheet -> right click -> Skip recomputes](https://forum.freecadweb.org/viewtopic.php?f=3&t=31005)
 | Set tolerance on cut | ![image](https://forum.freecadweb.org/download/file.php?id=67601) | [Defeaturing -> set tolerance](https://forum.freecadweb.org/viewtopic.php?f=3&t=31007)
+| Resizing DXF logo | ... | [Draft/Scale](https://forum.freecadweb.org/viewtopic.php?p=257164#p257164)
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
