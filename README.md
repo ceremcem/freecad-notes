@@ -53,6 +53,7 @@ Periodically check those and add to this HOWTO when they are ready:
 | Pause recalculations while working in spreadsheet | ... | [spreadsheet -> right click -> Skip recomputes](https://forum.freecadweb.org/viewtopic.php?f=3&t=31005)
 | Set tolerance on cut | ![image](https://forum.freecadweb.org/download/file.php?id=67322) | [Part/3D Offset*](https://forum.freecadweb.org/viewtopic.php?f=3&t=30922&p=257265#p256250) or [OpenScad/IncreaseTolerance](https://forum.freecadweb.org/viewtopic.php?p=257177#p257133)
 | Resizing DXF logo | ... | [Draft/Scale](https://forum.freecadweb.org/viewtopic.php?p=257164#p257164)
+| Iterating through cells | ... | [Link](https://forum.freecadweb.org/viewtopic.php?f=22&t=31053)
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
