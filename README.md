@@ -29,6 +29,7 @@ Periodically check those and add to this HOWTO when they are ready:
 ## TODO 
 
 * [Slice part with plane](https://open-shelf.appspot.com/FreeCAD/en-US/34.html), [Part Slice](https://www.freecadweb.org/wiki/Part_Slice)
+* [Make 3D from 2D drawings](https://forum.freecadweb.org/viewtopic.php?t=8121)
 
 
 ## Complementary Tasks 
