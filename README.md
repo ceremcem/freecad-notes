@@ -25,7 +25,7 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
 * [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
 * [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
-* 
+* [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
 
 ## TODO 
 
