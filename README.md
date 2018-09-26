@@ -25,12 +25,15 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
 * [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
 * [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
+* 
 
 ## TODO 
 
+Followings will be tested by me and then merged into the appropriate sections of this HOWTO:
+
 * [Slice part with plane](https://open-shelf.appspot.com/FreeCAD/en-US/34.html), [Part Slice](https://www.freecadweb.org/wiki/Part_Slice)
 * [Make 3D from 2D drawings](https://forum.freecadweb.org/viewtopic.php?t=8121)
-
+* Multiple Holes, [image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png), [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) 
 
 ## Complementary Tasks 
 
@@ -42,7 +45,6 @@ Periodically check those and add to this HOWTO when they are ready:
 
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
 | ---- | --------------------- | ---- |
-| Multiple Holes | ![image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) | 
 | Using External Geometry | ![image](https://user-images.githubusercontent.com/6639874/45157889-08ed4b00-b1eb-11e8-9f4a-95cf49c88730.png) | [Link](https://www.freecadweb.org/wiki/Sketcher_External)
 | Measure Distance Center to Center | ![measurement-center-to-center](https://user-images.githubusercontent.com/6639874/44947330-467d5d00-ae14-11e8-8255-0a95f35e25cb.gif) | [Link](https://forum.freecadweb.org/viewtopic.php?p=253824#p253821) |
 | Customize WB Toolbar | ![customize workbench bars](https://user-images.githubusercontent.com/6639874/45043088-ee916100-b074-11e8-9fed-7737c07aaea0.gif) | ---
