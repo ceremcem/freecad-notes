@@ -36,6 +36,10 @@ Followings will be tested by me and then merged into the appropriate sections of
 * [Make 3D from 2D drawings](https://forum.freecadweb.org/viewtopic.php?t=8121)
 * Multiple Holes, [image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png), [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) 
 
+Following Workbenches will be examined soon: 
+
+* https://github.com/yorikvanhavre/CADExchanger
+
 ## Complementary Tasks 
 
 * Printing DXF `1:1`: 
