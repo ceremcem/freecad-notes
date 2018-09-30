@@ -27,8 +27,10 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
 * [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
 * [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
+* [Human readable CAD file format](https://forum.freecadweb.org/viewtopic.php?p=257294#p257294)
+* [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
 
-## TODO 
+## To Be Tested
 
 Followings will be tested by me and then merged into the appropriate sections of this HOWTO:
 
@@ -57,7 +59,6 @@ Following Workbenches will be examined soon:
 | Projection Constraints | ![image](https://user-images.githubusercontent.com/6639874/45158649-4a7ef580-b1ed-11e8-903f-17ed828b88fd.gif) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/63#issuecomment-419207737)
 | Generating 2D drawing from an object | ... | ...
 | Create radius on a plate vertex | ![image](https://forum.freecadweb.org/download/file.php?id=67148) | [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30851)
-| Part slice | ![image](https://www.freecadweb.org/wiki/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png) | TODO
 | Pause recalculations while working in spreadsheet | ... | [spreadsheet -> right click -> Skip recomputes](https://forum.freecadweb.org/viewtopic.php?f=3&t=31005)
 | Set tolerance on cut | ![image](https://forum.freecadweb.org/download/file.php?id=67322) | [Part/3D Offset*](https://forum.freecadweb.org/viewtopic.php?f=3&t=30922&p=257265#p256250) or [OpenScad/IncreaseTolerance](https://forum.freecadweb.org/viewtopic.php?p=257177#p257133)
 | Resizing DXF logo | ... | [Draft/Scale](https://forum.freecadweb.org/viewtopic.php?p=257164#p257164)
