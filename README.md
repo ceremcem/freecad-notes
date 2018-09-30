@@ -10,6 +10,7 @@
 * [Understanding the `Element` concept](https://github.com/realthunder/FreeCAD_assembly3/issues/61)
 * [Understanding the Cyclic dependency errors](https://github.com/realthunder/FreeCAD_assembly3/issues/74)
 * [Race condition between Asm3 const. and Sketcher Ext. const](https://github.com/realthunder/FreeCAD_assembly3/issues/102#issuecomment-425258495)
+* [Unpack and repack fcstd files](https://github.com/ceremcem/fcstd-tools)
 
 
 ## Miscellaneous 
