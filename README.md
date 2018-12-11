@@ -4,6 +4,7 @@
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
 * [Assembly3 Builder Scripts](https://github.com/ceremcem/build-freecad-asm3)
+* [Point, Line, Surface description](https://github.com/realthunder/FreeCAD_assembly3/wiki/Constraints-and-Solvers#constraining-geometry-element)
 
 ## Deeper Knowledge 
 
