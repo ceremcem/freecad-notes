@@ -80,4 +80,4 @@ Following Workbenches will be examined soon:
 | Fixing broken binder | ![fixing-broken-binder](https://user-images.githubusercontent.com/6639874/45266593-ff234c00-b465-11e8-992d-6bd9150d7c5c.gif) | Select both `Binder` and the `Part` and click `Sub-shape Binder`
 | Fixing broken elements | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/140)
 | Find relations for a part | ![image](https://user-images.githubusercontent.com/6639874/45596665-1f07c200-b9c8-11e8-8f1c-a8dccff0bcc1.png) | Click part + use the "`Find Relations`" button
-| Quick move/create link | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/103)
+| Drag and drop in long trees | ... | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/103)
