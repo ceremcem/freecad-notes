@@ -66,6 +66,8 @@ Following Workbenches will be examined soon:
 | Resizing DXF logo | ... | [Draft/Scale](https://forum.freecadweb.org/viewtopic.php?p=257164#p257164)
 | Iterating through cells | ... | [Link](https://forum.freecadweb.org/viewtopic.php?f=22&t=31053)
 | Fast switch to Expression Mode | ... | Type `=` in the property cell
+| Bend, punch with solids, unfold | [![image](https://user-images.githubusercontent.com/6639874/55789244-99ae4100-5ac2-11e9-839d-6363a50c90af.png)](https://www.youtube.com/watch?v=cYoyj5yxT2M) | [bend-punch-unfold-example.fcstd.remove-me.zip](https://github.com/ceremcem/freecad-notes/files/3058128/bend-punch-unfold-example.fcstd.remove-me.zip)
+
 
 # By Task (Asm3)
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
