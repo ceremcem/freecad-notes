@@ -84,3 +84,4 @@ Following Workbenches will be examined soon:
 | Find relations for a part | ![image](https://user-images.githubusercontent.com/6639874/45596665-1f07c200-b9c8-11e8-8f1c-a8dccff0bcc1.png) | Click part + use the "`Find Relations`" button
 | Drag and drop in long trees |  | [Select item, go to target container, `T,D`, click to drop](https://github.com/realthunder/FreeCAD_assembly3/issues/103)
 | Creating offset for any constraint | ![image](https://user-images.githubusercontent.com/6639874/55069854-04f51d80-5096-11e9-9365-da3bb1422da8.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/205) |
+| Renewing source of sub-shape binder | ... | Select the source shape, hover on the target sub-shape binder, `T,D`, Hold `Ctrl`, `Click`
