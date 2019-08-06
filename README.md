@@ -86,5 +86,5 @@ Following Workbenches will be examined soon:
 | Find relations for a part | ![image](https://user-images.githubusercontent.com/6639874/45596665-1f07c200-b9c8-11e8-8f1c-a8dccff0bcc1.png) | Click part + use the "`Find Relations`" button
 | Drag and drop in long trees |  | [Select item, go to target container, `T,D`, click to drop](https://github.com/realthunder/FreeCAD_assembly3/issues/103)
 | Creating offset for any constraint | ![image](https://user-images.githubusercontent.com/6639874/55069854-04f51d80-5096-11e9-9365-da3bb1422da8.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/205) |
-| Renewing source of sub-shape binder | ... | Drag source shape, hover on the target, Hold `Ctrl`, `Click` to drop
+| Renewing source of sub-shape binder | ... | Drag and drop while `Ctrl` is pressed: <br/> <ol><li>Initiate dragging of source shape</li><li>Hover on the target (binder)</li><li>Hold `Ctrl`</li><li>`Click` to drop</li></ol> | 
 | Refreshing unfold jobs automatically | ![image](https://user-images.githubusercontent.com/6639874/62347900-f74c1a80-b503-11e9-9110-2add19d96c37.png) | See [SheetMetalUnfoldUpdater.FCMacro](https://github.com/ceremcem/FreeCAD_SheetMetal/blob/7b401415c47c5e9f86b31ead0153743f0559b85a/Macros/SheetMetalUnfoldUpdater.FCMacro#L11-L16) |
