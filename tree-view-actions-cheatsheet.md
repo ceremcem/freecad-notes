@@ -7,14 +7,14 @@
 * **Sync view**: 
   * Description: Auto switch to the 3D view containing the selected item.
   * Shortcut: `T, 1`
-  * When you want to disable: 
+  * When to disable: 
     * If a module (eg. TechDraw) wants you to to select an object in the tree view and then press a button (eg. TechDraw's "Insert multiple linked views of drawable object(s)" button), you *might* want to disable. **However there is a tip**: First select the object you want to "Insert its linked view", then click `Ctrl` key, then click your TechDraw instance. Last selection will switch to TechDraw view, so you can click "Insert multiple linked views..." button without disabling this feature. 
 
 * **Sync selection**:
   * Description: Auto expand tree item when the corresponding object is selected in 3D view.
   * Shortcut: `T, 2`
   * When to disable: 
-    * While fixing multiple `Element`s: 
+    * While fixing multiple broken `Element`s: 
       * `1.` Disable *Sync selection*
       * `2.` Click on the erroneous `Element`
       * `3.` A yellow "shadow" will appear in 3D view 
