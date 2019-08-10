@@ -43,6 +43,6 @@
   * Shortcut: `T, 5`
   * How to use:
     * `1.` Switch to `Assembly 3` Workbench 
-    * `2.` Use the navigation buttons ([<- ->](https://user-images.githubusercontent.com/6639874/62826720-ffbde880-bbc8-11e9-8a7a-a4a22799c46c.png)) to switch back and forth between your last selections. 
+    * `2.` Use the navigation buttons ([⬅ ➡](https://user-images.githubusercontent.com/6639874/62826720-ffbde880-bbc8-11e9-8a7a-a4a22799c46c.png)) to switch back and forth between your last selections. 
   * When to disable: 
     * Can be temporarily disabled to make the last selection as an anchor to jump back, while ignoring any follow up selection.
