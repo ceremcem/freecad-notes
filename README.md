@@ -1,5 +1,7 @@
 # FreeCAD Notes 
 
+Chatroom: https://forum.freecadweb.org/viewtopic.php?f=20&t=38564
+
 ## Assembly 3
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
