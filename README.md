@@ -33,6 +33,7 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
 * [Human readable CAD file format](https://forum.freecadweb.org/viewtopic.php?p=257294#p257294)
 * [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
+* [Referring to sub-assembly measurement constraints](https://github.com/realthunder/FreeCAD_assembly3/issues/272)
 
 ## To Be Tested
 
