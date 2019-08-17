@@ -33,7 +33,6 @@ Periodically check those and add to this HOWTO when they are ready:
 * [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
 * [Human readable CAD file format](https://forum.freecadweb.org/viewtopic.php?p=257294#p257294)
 * [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
-* [Referring to sub-assembly measurement constraints](https://github.com/realthunder/FreeCAD_assembly3/issues/272)
 
 ## To Be Tested
 
@@ -91,4 +90,4 @@ Following Workbenches will be examined soon:
 | Creating offset for any constraint | ![image](https://user-images.githubusercontent.com/6639874/55069854-04f51d80-5096-11e9-9365-da3bb1422da8.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/205) |
 | Renewing source of sub-shape binder | ... | Drag and drop while `Ctrl` is pressed: <br/> <ol><li>Initiate dragging of source shape</li><li>Hover on the target (binder)</li><li>Hold `Ctrl`</li><li>`Click` to drop</li></ol> | 
 | Refreshing unfold jobs automatically | ![image](https://user-images.githubusercontent.com/6639874/62347900-f74c1a80-b503-11e9-9110-2add19d96c37.png) | See [SheetMetalUnfoldUpdater.FCMacro](https://github.com/ceremcem/FreeCAD_SheetMetal/blob/7b401415c47c5e9f86b31ead0153743f0559b85a/Macros/SheetMetalUnfoldUpdater.FCMacro#L11-L16) |
-| Measuring dynamic distance (assembly distance) | ... | In spreadsheet cell: <br />`=<<my_distance_constraint>>.Distance`
+| Measuring dynamic distance (assembly distance) | ... | In spreadsheet cell: <ol><li> `=<<myDistConstraint>>.Distance` </li><li>`=<<DocumentName>>#<<myDistConstraint>>.Distance` </li></ol> |
