@@ -70,6 +70,7 @@ Following Workbenches will be examined soon:
 | Fast switch to Expression Mode | ... | Type `=` in the property cell
 | Bend, punch with solids, unfold | [![image](https://user-images.githubusercontent.com/6639874/55789244-99ae4100-5ac2-11e9-839d-6363a50c90af.png)](https://www.youtube.com/watch?v=cYoyj5yxT2M) | [bend-punch-unfold-example.fcstd.remove-me.zip](https://github.com/ceremcem/freecad-notes/files/3058128/bend-punch-unfold-example.fcstd.remove-me.zip)
 | Performing FEM Analysis | [![image](https://user-images.githubusercontent.com/6639874/62107673-cd4eea00-b2b0-11e9-822d-6fb26bfa4cdd.png)](https://www.youtube.com/watch?v=dhrynRdBOIg) | ... |
+| Export components as STEP file | ... | <ol><li>Select component(s)</li><li>`File->Export->Step`</li></ol> See [wiki](https://www.freecadweb.org/wiki/FreeCAD_Howto_Import_Export#Step_with_Colors_2) |
 
 
 
