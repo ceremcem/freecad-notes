@@ -15,6 +15,19 @@ Periodically check those threads and add to this HOWTO when they are ready:
 * [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
 * [Making projects resistant to breaking changes](https://forum.freecadweb.org/viewtopic.php?f=8&t=54298)
 
+### To Be Tested
+
+Following tasks will be tested (by myself) and then merged into the appropriate sections of this HOWTO:
+
+* [Slice part with plane](https://open-shelf.appspot.com/FreeCAD/en-US/34.html), [Part Slice](https://www.freecadweb.org/wiki/Part_Slice)
+* [Make 3D from 2D drawings](https://forum.freecadweb.org/viewtopic.php?t=8121)
+* Multiple Holes, [image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png), [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) 
+
+Following Workbenches will be examined soon: 
+
+* https://github.com/yorikvanhavre/CADExchanger
+
+
 # Practical Notes
 
 ## Assembly 3 Basics
@@ -36,18 +49,6 @@ Periodically check those threads and add to this HOWTO when they are ready:
 * Prevent TechDraw position jump: [Use "LockPosition=true"](https://forum.freecadweb.org/viewtopic.php?style=10&t=29853)
 * Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
 * Subshape not found: [1](https://forum.freecadweb.org/viewtopic.php?t=23746), [Follow the best practices](https://forum.freecadweb.org/viewtopic.php?f=3&t=15432&start=40#p143978)
-
-## To Be Tested
-
-Followings will be tested by me and then merged into the appropriate sections of this HOWTO:
-
-* [Slice part with plane](https://open-shelf.appspot.com/FreeCAD/en-US/34.html), [Part Slice](https://www.freecadweb.org/wiki/Part_Slice)
-* [Make 3D from 2D drawings](https://forum.freecadweb.org/viewtopic.php?t=8121)
-* Multiple Holes, [image](https://user-images.githubusercontent.com/6639874/44943027-5589ee00-adc7-11e8-95d8-29288d94fb86.png), [Link](https://forum.freecadweb.org/viewtopic.php?f=3&t=30625) 
-
-Following Workbenches will be examined soon: 
-
-* https://github.com/yorikvanhavre/CADExchanger
 
 ## Complementary Tasks 
 
