@@ -2,7 +2,22 @@
 
 Chatroom: https://forum.freecadweb.org/viewtopic.php?f=20&t=38564
 
-## Assembly 3
+# ONGOING/TODO
+
+Periodically check those threads and add to this HOWTO when they are ready:
+
+* [Hitting escape key while editing in a Sketch](https://forum.freecadweb.org/viewtopic.php?f=10&t=30759)
+* [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
+* [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
+* [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
+* [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
+* [Human readable CAD file format](https://forum.freecadweb.org/viewtopic.php?p=257294#p257294)
+* [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
+* [Making projects resistant to breaking changes](https://forum.freecadweb.org/viewtopic.php?f=8&t=54298)
+
+# Practical Notes
+
+## Assembly 3 Basics
 
 * [Asm3 Constraints and «Natural» Links](https://www.dropbox.com/s/k40drc9rlkflrjs/Asm3_contr_et_liaisons_courantes_En.pdf?dl=0)
 * [Assembly3 Builder Scripts](https://github.com/ceremcem/build-freecad-asm3)
@@ -22,18 +37,6 @@ Chatroom: https://forum.freecadweb.org/viewtopic.php?f=20&t=38564
 * Importing DXF files: [Enable importer in Preferences](https://github.com/realthunder/FreeCAD_assembly3/issues/85#issuecomment-420690833)
 * Subshape not found: [1](https://forum.freecadweb.org/viewtopic.php?t=23746), [Follow the best practices](https://forum.freecadweb.org/viewtopic.php?f=3&t=15432&start=40#p143978)
 
-## Ongoing
-
-Periodically check those and add to this HOWTO when they are ready:
-
-* [Hitting escape key while editing in a Sketch](https://forum.freecadweb.org/viewtopic.php?f=10&t=30759)
-* [Disabling Sketch constraints](https://forum.freecadweb.org/viewtopic.php?p=256171#p256171)
-* [Sync operation Placement with its Base object](https://forum.freecadweb.org/viewtopic.php?f=8&t=30859) 
-* [Embed Python code into FreeCAD document](https://forum.freecadweb.org/viewtopic.php?f=3&t=30731)
-* [Dxf to Drill file conversion](https://forum.freecadweb.org/viewtopic.php?f=3&t=31176)
-* [Human readable CAD file format](https://forum.freecadweb.org/viewtopic.php?p=257294#p257294)
-* [Visual Programming in FreeCAD](https://forum.freecadweb.org/viewtopic.php?f=8&t=7442&start=30#p150827)
-
 ## To Be Tested
 
 Followings will be tested by me and then merged into the appropriate sections of this HOWTO:
@@ -52,7 +55,7 @@ Following Workbenches will be examined soon:
   * TechDraw -> Export
   * LibreCAD -> Open -> Select drawing -> Print Preview -> select `1:1` -> Print
 
-## By Task 
+## Basic Actions
 
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
 | ---- | --------------------- | ---- |
@@ -74,7 +77,7 @@ Following Workbenches will be examined soon:
 
 
 
-# By Task (Asm3)
+# Assembly3 Actions
 | Task &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Screenshot/Screencast | Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 
 | ---- | --------------------- | ---- | 
 | Resetting orientation which is ruined by `Move Part` tool (![image](https://user-images.githubusercontent.com/6639874/44947919-2736fd80-ae1d-11e8-9f9e-16c64a89788a.png)) | ![image](https://user-images.githubusercontent.com/6639874/44947955-af1d0780-ae1d-11e8-934e-d1ec0a26e711.png) | [Link](https://github.com/realthunder/FreeCAD_assembly3/issues/21#issuecomment-411357888) |
