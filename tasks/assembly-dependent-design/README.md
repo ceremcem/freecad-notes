@@ -124,6 +124,4 @@ Locale: English/UnitedStates (en_US)
 # Related links 
 
 1. Original (deprecated) HOWTO: https://github.com/ceremcem/fc-asm3-cut-window
-
-
-
+2. Related issue: https://github.com/realthunder/FreeCAD_assembly3/issues/422

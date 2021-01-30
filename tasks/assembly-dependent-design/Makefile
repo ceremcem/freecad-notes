@@ -1,4 +1,7 @@
 all:
-	#bash -c "[[ $(pandoc -v | head -n1 | cut -d' ' -f2)" =~ 2\.11\..+ ]]" # check pandoc version
+	# NOTICE: Make sure that Pandoc version is >= 2.11
 	pandoc -f gfm -t html5 -o index.html README.md --css=gh-pandoc.css -s
 	sensible-browser index.html
+
+upload:
+	surge .
