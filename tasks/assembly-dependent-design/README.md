@@ -68,7 +68,7 @@ Here is the origin of the model: [origin.zip](./origin.zip)
 
 ### Assembly Dependent Boolean Operation
 
-![](./operation-a.mp4)
+![](./operation-a.mp4){preload=metadata}
 
 ### Assembly Dependent Boolean Operation, Move Test
 

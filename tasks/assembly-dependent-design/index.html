@@ -20,9 +20,12 @@
   <![endif]-->
 </head>
 <body>
+<header id="title-block-header">
+<h1 class="title">README</h1>
+</header>
 <h1 id="assembly-dependent-design">Assembly Dependent Design</h1>
 <blockquote>
-<p>a.k.a "<a href="https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly">Modeling using assembly</a>"</p>
+<p>a.k.a “<a href="https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly">Modeling using assembly</a>”</p>
 </blockquote>
 <p>Workflow is as follows:</p>
 <ol type="1">
@@ -43,8 +46,10 @@
 </ol></li>
 </ol>
 <h1 id="example">Example</h1>
-<p>In the following model, I'm going to cut the <code>circuit_board</code> with the <em>yellow part</em> (the device, I need its pins) and the <code>front_panel</code> with the newly created geometry inside Parent_part:</p>
-<p><img src="./example.png" alt="Banner" /></p>
+<p>In the following model, I’m going to cut the <code>circuit_board</code> with the <em>yellow part</em> (the device, I need its pins) and the <code>front_panel</code> with the newly created geometry inside Parent_part:</p>
+<figure>
+<img src="./example.png" alt="Banner" /><figcaption aria-hidden="true">Banner</figcaption>
+</figure>
 <p>Here is the origin of the model: <a href="./origin.zip">origin.zip</a></p>
 <h2 id="assembly-dependent-boolean-operation-a">Assembly Dependent Boolean Operation (A)</h2>
 <ol type="1">
@@ -53,7 +58,7 @@
 <p>Workaround: Currently a Subshape Binder goes into the active <em>Body</em>. So you need to create a temporary <code>Body</code> to attract the newly created Subshape Binder.</p>
 </blockquote>
 <ol type="1">
-<li>Create a temporary Body inside <code>Parent_part</code>. (This will be automatically marked as "Active Body")</li>
+<li>Create a temporary Body inside <code>Parent_part</code>. (This will be automatically marked as “Active Body”)</li>
 <li>Click the desired geometry (<code>circuit_board</code>) + click the <code>Subshape Binder</code>.</li>
 <li>Click the desired geometry (<code>device</code>) + click the <code>Subshape Binder</code>.</li>
 <li>Verify: The subshape binders went inside the temporary Body within the <code>Parent_part</code>.</li>
@@ -68,12 +73,12 @@
 </ol>
 <h2 id="assembly-dependent-part-design-b">Assembly Dependent Part Design (B)</h2>
 <ol type="1">
-<li>Create a Body in <code>Parent_part</code> (Rename it as "<code>cutting_tool</code>").</li>
+<li>Create a Body in <code>Parent_part</code> (Rename it as “<code>cutting_tool</code>”).</li>
 <li>Click <code>front_panel</code>, click <code>Subshape Binder</code></li>
 <li>Click <code>device</code>, click <code>Subshape Binder</code></li>
-<li>Only move the <code>front_panel</code>'s, subshape binder outside the <code>cutting_tool (Body)</code></li>
+<li>Only move the <code>front_panel</code>’s, subshape binder outside the <code>cutting_tool (Body)</code></li>
 <li>Click the subshape binder inside the <code>cutting_tool (Body)</code>, then click the front face of the <code>device</code>.</li>
-<li>Open Part Design WB, click the "Create A New Sketch" button.</li>
+<li>Open Part Design WB, click the “Create A New Sketch” button.</li>
 <li>Create some external geometries based on the subshape binder</li>
 <li>Create your cutter tool geometry by using those external geometries</li>
 <li>Close the sketch,</li>
@@ -93,15 +98,15 @@
 </ol>
 <h1 id="screencasts">Screencasts</h1>
 <h3 id="assembly-dependent-boolean-operation">Assembly Dependent Boolean Operation</h3>
-<p><video src="./operation-a.mp4" controls=""><a href="./operation-a.mp4">Video</a></video></p>
+<p><video src="./operation-a.mp4" preload="metadata" controls=""><a href="./operation-a.mp4">Video</a></video></p>
 <h3 id="assembly-dependent-boolean-operation-move-test">Assembly Dependent Boolean Operation, Move Test</h3>
 <p><video src="./operation-a--move-test.mp4" controls=""><a href="./operation-a--move-test.mp4">Video</a></video></p>
 <h3 id="assembly-dependent-boolean-operation-modify-test">Assembly Dependent Boolean Operation, Modify Test</h3>
 <p><video src="./operation-a--modify-test.mp4" controls=""><a href="./operation-a--modify-test.mp4">Video</a></video></p>
 <p><a href="./20210117T1531-operation-a-modify-test-is-successful.zip">20210117T1531-operation-a-modify-test-is-successful.zip</a></p>
-<h3 id="assembly-dependent-part-design--move-test">Assembly Dependent Part Design + Move Test</h3>
+<h3 id="assembly-dependent-part-design-move-test">Assembly Dependent Part Design + Move Test</h3>
 <p><video src="./operation-b-and-move-test.mp4" controls=""><a href="./operation-b-and-move-test.mp4">Video</a></video></p>
-<h3 id="assembly-dependent-part-design-modify--move-test">Assembly Dependent Part Design, Modify + Move Test</h3>
+<h3 id="assembly-dependent-part-design-modify-move-test">Assembly Dependent Part Design, Modify + Move Test</h3>
 <p><video src="./operation-b-modify-and-move.mp4" controls=""><a href="./operation-b-modify-and-move.mp4">Video</a></video></p>
 <h1 id="version">Version</h1>
 <pre><code>OS: Debian GNU/Linux 10 (buster)
@@ -122,19 +127,19 @@ Locale: English/UnitedStates (en_US)</code></pre>
 <ol type="1">
 <li><a href="https://github.com/realthunder/FreeCAD_assembly3/issues/422#issuecomment-763219357">Yes</a></li>
 </ol></li>
-<li>If yes, is when is the <em>Holding <code>Ctrl</code> button</em> (in your original tutorial) come into play? I can't figure out the necessity for that, what am I missing?
+<li>If yes, is when is the <em>Holding <code>Ctrl</code> button</em> (in your original tutorial) come into play? I can’t figure out the necessity for that, what am I missing?
 <ol type="1">
-<li>Holding <code>Ctrl</code> button means "Create a copy beforehand and then move". However it doesn't work the way I would expect, so it's better not to use it anyway. (See <a href="https://github.com/realthunder/FreeCAD_assembly3/issues/422#issuecomment-769260539">this</a>)</li>
+<li>Holding <code>Ctrl</code> button means “Create a copy beforehand and then move”. However it doesn’t work the way I would expect, so it’s better not to use it anyway. (See <a href="https://github.com/realthunder/FreeCAD_assembly3/issues/422#issuecomment-769260539">this</a>)</li>
 </ol></li>
-<li>Why can't I create external geometries within the Part Design WB based on Subshape's rectangular face but I could create based on the circular geometry?
+<li>Why can’t I create external geometries within the Part Design WB based on Subshape’s rectangular face but I could create based on the circular geometry?
 <ol type="1">
 <li>Unknown at this time.</li>
 </ol></li>
 </ol>
 <h1 id="related-links">Related links</h1>
 <ol type="1">
-<li>Original (deprecated) HOWTO: <a href="https://github.com/ceremcem/fc-asm3-cut-window">https://github.com/ceremcem/fc-asm3-cut-window</a></li>
-<li>Related issue: <a href="https://github.com/realthunder/FreeCAD_assembly3/issues/422">https://github.com/realthunder/FreeCAD_assembly3/issues/422</a></li>
+<li>Original (deprecated) HOWTO: https://github.com/ceremcem/fc-asm3-cut-window</li>
+<li>Related issue: https://github.com/realthunder/FreeCAD_assembly3/issues/422</li>
 </ol>
 </body>
 </html>
