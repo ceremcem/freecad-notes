@@ -68,19 +68,17 @@ Here is the origin of the model: [origin.zip](./origin.zip)
 
 ### Assembly Dependent Boolean Operation
 
-<video width="50%" controls>
-  <source src="./operation-a.mp4" type="video/mp4">
-</video>
+![](./operation-a.mp4)
 
 ### Assembly Dependent Boolean Operation, Move Test
 
 
-./operation-a--move-test.mp4
+![](./operation-a--move-test.mp4)
 
 
 ### Assembly Dependent Boolean Operation, Modify Test
 
-./operation-a--modify-test.mp4
+![](./operation-a--modify-test.mp4)
 
 [20210117T1531-operation-a-modify-test-is-successful.zip](./20210117T1531-operation-a-modify-test-is-successful.zip)
 
@@ -88,13 +86,13 @@ Here is the origin of the model: [origin.zip](./origin.zip)
 ### Assembly Dependent Part Design + Move Test
 
 
-./operation-b-and-move-test.mp4
+![](./operation-b-and-move-test.mp4)
 
 
 ### Assembly Dependent Part Design, Modify + Move Test
 
 
-./operation-b-modify-and-move.mp4
+![](./operation-b-modify-and-move.mp4)
 
 
 # Version 

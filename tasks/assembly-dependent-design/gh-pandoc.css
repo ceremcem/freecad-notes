@@ -1,3 +1,4 @@
+/* Taken from: https://gist.github.com/forivall/7d5a304a8c3c809f0ba96884a7cf9d7e */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
 /**
@@ -55,6 +56,7 @@ progress,
 video {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
+  width: 100%;
 }
 
 /**

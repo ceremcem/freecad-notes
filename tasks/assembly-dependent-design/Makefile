@@ -1,3 +1,4 @@
 all:
-	pandoc -f markdown -t html5 -o README.html README.md --css=gh-style.css -s
+	#bash -c "[[ $(pandoc -v | head -n1 | cut -d' ' -f2)" =~ 2\.11\..+ ]]" # check pandoc version
+	pandoc -f gfm -t html5 -o README.html README.md --css=gh-pandoc.css -s
 	sensible-browser README.html
