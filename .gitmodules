@@ -1,0 +1,3 @@
+[submodule "FreeCAD-Asm3-Library"]
+	path = FreeCAD-Asm3-Library
+	url = https://github.com/ceremcem/FreeCAD-Asm3-Library
